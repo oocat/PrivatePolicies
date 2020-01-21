@@ -1,4 +1,4 @@
-# UNION PandaPod 隐私政策
+# PandaPod 隐私政策
 
 本软件指 PandaPod 软件（以下称本软件）。
 
